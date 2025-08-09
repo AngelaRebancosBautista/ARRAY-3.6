@@ -1,0 +1,7 @@
+C:\Users\alyssa\source\repos\ARRAY 6\bin\Debug\ARRAY 6.exe.config
+C:\Users\alyssa\source\repos\ARRAY 6\bin\Debug\ARRAY 6.exe
+C:\Users\alyssa\source\repos\ARRAY 6\bin\Debug\ARRAY 6.pdb
+C:\Users\alyssa\source\repos\ARRAY 6\obj\Debug\ARRAY 6.csproj.AssemblyReference.cache
+C:\Users\alyssa\source\repos\ARRAY 6\obj\Debug\ARRAY 6.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\ARRAY 6\obj\Debug\ARRAY 6.exe
+C:\Users\alyssa\source\repos\ARRAY 6\obj\Debug\ARRAY 6.pdb
